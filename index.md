@@ -1,4 +1,4 @@
-head: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 #   Il matti no ha l'oro in bocca
 * Il mattino ha l'oro in bocca
   
