@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-minimal
 #  All work and no play makes Jack a dull boy
 
 ## All work a 
